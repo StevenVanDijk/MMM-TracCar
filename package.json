@@ -8,5 +8,5 @@
   "dependencies": {
     "request": "2.85.0",
     "ws": "5.1.1"
-  } 
+  }
 }
